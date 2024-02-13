@@ -2,4 +2,9 @@
 #สมุดบันทึก
 สำหรับวิชา [oop].(https://jaruvitgiant.github.io)
 จารุวิทย์ คำพันธ์ 
-
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
