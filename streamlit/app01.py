@@ -1,12 +1,17 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+
+
  
 st.title('จารุวิทย์ คำพันธ์ 66114540131')
 import streamlit as st
 import pandas as pd
 
-
+h = st.header("my web site")
+s = st.subheader("my web site")
+b = st.button("my web site")
+ 
 st.write("This is introduction to streamlit")
 
 st.markdown("## Code")
